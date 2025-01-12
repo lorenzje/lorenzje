@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Jack, I will soon be graduating with a degree in Computer Software Development
+- 🔭 I’m currently working on securing an internship as a computer programmer.
+- ⚡ Fun fact: I have a professional background in the arts and love all things creative 
 
 <!--
 **lorenzje/lorenzje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
