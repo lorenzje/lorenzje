@@ -5,6 +5,7 @@ My name is Jack, I will soon be graduating with a degree in Computer Software De
 - AAS | Computer Software Development
 - BA  | Audio Design/Production
 
+Check out some of my personal projects to see what I can do! :)
 <!--
 **lorenzje/lorenzje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
